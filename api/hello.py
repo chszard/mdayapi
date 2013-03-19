@@ -12,11 +12,14 @@ def hello():
 def get_index(value):
     return value
 
+<<<<<<< HEAD
 def get_user()
     pass
 
 def get_date()
     pass
+def get_feamil_user(value)
+    return value
  
 if __name__ == '__main__':
     app.run(host='192.168.11.2')
