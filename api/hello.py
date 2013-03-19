@@ -1,3 +1,6 @@
+#-*- coding UTF-8 -*-
+#
+
 from flask import Flask
 app = Flask(__name__)
 
@@ -9,6 +12,11 @@ def hello():
 def get_index(value):
     return value
 
+def get_user()
+    pass
+
+def get_date()
+    pass
  
 if __name__ == '__main__':
     app.run(host='192.168.11.2')
