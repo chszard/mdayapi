@@ -12,6 +12,9 @@ def hello():
 def get_index(value):
     return value
 
+def set_user(request)
+    pass
+
 def get_user()
     pass
 
