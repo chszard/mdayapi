@@ -12,7 +12,6 @@ def hello():
 def get_index(value):
     return value
 
-<<<<<<< HEAD
 def get_user()
     pass
 
