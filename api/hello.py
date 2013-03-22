@@ -1,6 +1,5 @@
 #-*- coding UTF-8 -*-
 #
-
 from flask import Flask
 app = Flask(__name__)
 
@@ -12,15 +11,18 @@ def hello():
 def get_index(value):
     return value
 
-def set_user()
+def set_user():
     pass
 
-def get_user()
+def set_date():
+
+def get_user():
     pass
 
-def get_date()
+def get_date():
     pass
-def get_feamil_user(value)
+
+def get_feamil_user(value):
     return value
  
 if __name__ == '__main__':
